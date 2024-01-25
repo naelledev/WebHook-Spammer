@@ -1,0 +1,7 @@
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\bin\Debug\WebHookSpammer.exe.config
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\bin\Debug\WebHookSpammer.exe
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\bin\Debug\WebHookSpammer.pdb
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\obj\Debug\WebHookSpammer.csproj.AssemblyReference.cache
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\obj\Debug\WebHookSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\obj\Debug\WebHookSpammer.exe
+C:\Users\Filip Onetino\source\repos\WebHookSpammer\WebHookSpammer\obj\Debug\WebHookSpammer.pdb
